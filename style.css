@@ -1,0 +1,66 @@
+body {
+    background-image: url(slide1.jpg);
+    background-size: cover;
+
+
+}
+
+h1{
+    color: white;
+    padding: 15px 30px;
+    font-family: ;
+    
+}
+
+h2{
+    color: rgb(127, 197, 21);
+}
+span a{
+    background-position: center center;
+}
+p{
+    color: white;
+    padding: 50px;
+}
+
+.contenedor {
+    margin: auto;
+    text-align: center;
+    width: 80%;
+    overflow: hidden;
+    margin:0 auto;
+    max-width: 1000px;
+}
+
+.contenedor h3 {
+    padding-bottom: 150px;
+}
+
+.contenedor span {
+    color: rgb(134, 127, 201);
+    font-size: 60px;
+}
+
+a {
+    padding: 15px 30px;
+    position: relative;
+    display: inline-block;
+    color: rgb(171, 168, 172);
+    letter-spacing: 4px;
+    text-decoration: none;
+}
+
+
+
+
+footer {
+    background-color: rgba(23, 106, 161, 0.534);
+    padding: 1em 0;
+    overflow: hidden;
+    margin:0 auto;
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
